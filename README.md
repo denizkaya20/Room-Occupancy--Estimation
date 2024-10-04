@@ -1,0 +1,2 @@
+# Room Occupancy  Estimation
+ In this study; the number of people in a room is detected using a large number of environmental sensors such as temperature, light, sound, CO2 and PIR (binary value transmitting motion detection). While making this detection, the results were examined using ML-Supervised Learning algorithms such as Decision Tree, Random Forest, K-Nearest Neighbor and Support Vector Machine.
